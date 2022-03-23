@@ -1,0 +1,5 @@
+Well done on the first cipher. It was a polybius cipher, but you know that already.
+In this repo there are two further ciphers. cipher 2 is a clue for cipher 3.
+To break cipher 2, you need setting 6.
+to break cipher 3, follow the instructions in cipher 2.
+Good luck.
