@@ -99,8 +99,6 @@ for i in range(len(outstrings[0])):
 print()
 print(outval)
 print()
-print(key)
-print()
 
 while True:
     count = 0
