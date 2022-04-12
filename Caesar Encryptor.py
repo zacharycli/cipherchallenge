@@ -1,4 +1,9 @@
-from English import alpha, beta
+#from English import alpha, beta
+#this was slower because it ran the code to generate a wordlist using nltk.
+
+alpha = 'abcdefghijklmnopqrstuvwxyz'
+beta = alpha.upper()
+
 key = int(input('key        > '))
 plaintext = input('plaintext  > ')
 ciphertext = ''
