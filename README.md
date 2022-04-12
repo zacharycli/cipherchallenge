@@ -1,5 +1,5 @@
 cipherchallenge
-This is a collection of cryptanalysis tools for the National Cipher Challenge
+This is a collection of cryptanalysis tools for the National Cipher Challenge, and now my personal cipher challenge.
 
 Caesar Decryptor.py decrypts caesar ciphers with a known key. Requires English.py
 
