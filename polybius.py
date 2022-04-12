@@ -1,6 +1,12 @@
-alpha = [['a','b','c','d','e'],['f','g','h','i','j'],['k','l','m','n','o'],['p','q','r','s','t'],['u','v','w','x','y']]
-
-code = input("> ").replace(" ", "")
-
-for i in range(0, len(code), 2):
-    print(alpha[int(code[i])-1][int(code[i+1])-1], end = '')
+alpha = [['a','b','c','d','e'],['f','g','h','i','k'],['l','m','n','o','p'],['q','r','s','t', 'u'],['v','w','x','y','z']]
+code = input("> ")#.replace(" ", "")
+lasti = ''
+for i in (b := code.split(' ')):
+    try:
+        print(alpha[(int(i[0])-1)%5][(int(i[1])-1)%5], end = '')
+    except:
+        if lasti == '' and i == '':
+            print(i, end = ' ')
+        else:
+            print(i, end = '')
+    lasti=i
