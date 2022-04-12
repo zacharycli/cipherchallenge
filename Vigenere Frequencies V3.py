@@ -1,4 +1,3 @@
-import matplotlib.pyplot as plt
 from English import *
 
 #fully automatic vigenere decryption
