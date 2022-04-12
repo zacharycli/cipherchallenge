@@ -1,6 +1,8 @@
 cipherchallenge
+
+IF YOU GOT HERE FROM MY DISCORD PROFILE, READ "cipher 1.txt" FOR AN EXPLANATION.
+
 This is a collection of cryptanalysis tools for the National Cipher Challenge, and now my personal cipher challenge.
-For the instructions, read cipher 1.txt
 
 Caesar Decryptor.py decrypts caesar ciphers with a known key. Requires English.py
 
