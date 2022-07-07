@@ -1,8 +1,0 @@
-Well done on the first cipher. It was a polybius cipher, but you know that already.
-In this repo there are two further ciphers. cipher 2 is a clue for cipher 3.
-To break cipher 2, you need setting 6. Version 3 is ineffective.
-To break cipher 3, follow the instructions in cipher 2.
-You have all of the tools you need in this repo. Some of them may need some modification.
-You will have to write the code described in cipher 2 yourself, but it only requires a single line.
-Message me if you think you've solved it.
-Good luck.
